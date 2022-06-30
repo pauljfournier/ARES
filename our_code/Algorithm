@@ -1,0 +1,19 @@
+ARES Algorithm
+
+The main idea is to check the farest object in the four primary directions.
+
+1) At the starting position, ARES checks a little angle in front of it, its right and its left.
+	- For each direction it checks the distance to an obstacle (3 time)
+	- set as seen all the cases of the map between it and the obstacle (bump moveable) (as uncheck obstacle)
+2) - It chooses the farest obstacle , with at least a part of the way to it unexplored. It goes to short distance of it and check if it's a moveable object or an unmoveable one. (size and color)
+   - If there is a distance without obstacle, ARES  go as far as posible and do the step 1) again.
+   - If all the directions are already explored ARES go backward (if there is no obstacle behind , in this case he chose a free for a short distance and do the step 3) 
+3) ARES starts again the first step without checking in front of it.
+
+
+check 3 dir et choisir
+modification de la map en fonction des checks (0 unchecked, 1 checked void, 2 unmoveable, 3 unchecked obstacle) 
+modifier la detection moveable /unmoveable (couleur)
+faire les changement d'état
+
+bump à faire (taco etc...)
