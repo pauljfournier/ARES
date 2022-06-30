@@ -1,4 +1,4 @@
-Autonomous Recon and Exploration System, an explorer robot designed from scratch.
+Autonomous Recon and Exploration System, an explorer robot designed from scratch using Mindstorms EV3 kit (https://education.lego.com/en-us/downloads/mindstorms-ev3/software#downloads).
 
 - Explore/navigate area without bumping into obstacles.
 - Send position to a server while navigating.
