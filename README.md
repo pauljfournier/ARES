@@ -13,12 +13,12 @@ See the specifications: https://perso.telecom-paristech.fr/apvrille/OS/projects_
 
 A.R.E.S. itself:
 
-![alt text](https://github.com/pauljfournier/ARES/20180111_171318_pjf8rc.webp?raw=true)
-![alt text](https://github.com/pauljfournier/ARES/20180111_171353_wgafzn.webp?raw=true)
-![alt text](https://github.com/pauljfournier/ARES/20180111_173859_rkmjom.webp?raw=true)
+![alt text](https://github.com/pauljfournier/ARES/blob/main/20180111_171318_pjf8rc.webp?raw=true)
+![alt text](https://github.com/pauljfournier/ARES/blob/main/20180111_171353_wgafzn.webp?raw=true)
+![alt text](https://github.com/pauljfournier/ARES/blob/main/20180111_173859_rkmjom.webp?raw=true)
 
 
 Typical areas of exploration:
 
-![alt text](https://github.com/pauljfournier/ARES/AreaSpecification_fall2017.png?raw=true)
-![alt text](https://github.com/pauljfournier/ARES/SmallArenaSpecification_fall2017.png?raw=true)
+![alt text](https://github.com/pauljfournier/ARES/blob/main/AreaSpecification_fall2017.png?raw=true)
+![alt text](https://github.com/pauljfournier/ARES/blob/main/SmallArenaSpecification_fall2017.png?raw=true)
